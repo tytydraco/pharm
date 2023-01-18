@@ -2,6 +2,8 @@
 
 A free and open source blog about psychology, pharmacology, and other medical subjects.
 
+[Click here to view the reports](reports/index.md)
+
 ###  Purpose
 
 This blog is for self-learning and documentation purposes. I intend to provide digestible reports on medical topics that have been backed by scientific evidence.
