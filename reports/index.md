@@ -9,3 +9,7 @@ A high-level explanation of Huperzine A's mechanisms of action, pharmacokinetic 
 ### [Huperzine A: Neurogenesis](huperzine_a_neurogenesis.md)
 
 A single-study report of Huperzine A's effects on nerve growth factor and neuritogenesis in rat brain cells.
+
+### [Phenibut: Overview](phenibut_overview.md)
+
+A single-study report of the general chemistry and pharmacology of Phenibut.
