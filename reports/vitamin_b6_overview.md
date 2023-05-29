@@ -25,5 +25,3 @@ Vitamin B6 is also a potent antioxidant.
 ### Summary
 
 Vitamin B6 is an essential vitamin to maintain healthy bodily function and to prevent neuroticism.
-
-
