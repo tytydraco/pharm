@@ -25,4 +25,3 @@ The increase in norepinephrine transmission in the brain from ALCAR is beneficia
 ### Summary
 
 ALCAR supplementation improves brain glucose usage, increases myo-inositol levels, and improves noradrenergic and serotonergic neurotransmission.
-
