@@ -2,6 +2,14 @@
 
 These reports investigate a particular topic using scientific sources. Some reports summarize one specific source, while others may include multiple. These reports are meant to be digestible and well understood, portraying the findings of studies well.
 
+### [Melatonin: Optimal Phase Advancement](melatonin_optimal_phase_advancement.md)
+
+The optimal dosing routine of exogenous melatonin to produce maximal circadian rhythym phase advancements. 
+
+### [Acetyl L-Carnitine: Overview](acetyl_l-carnitine_overview.md)
+
+The biological role of ALCAR and the effects of supplementation.
+
 ### [Vitamin B6: Overview](vitamin_b6_overview.md)
 
 The role of vitamin B6 in the body.
