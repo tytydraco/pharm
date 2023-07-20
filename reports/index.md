@@ -2,6 +2,10 @@
 
 These reports investigate a particular topic using scientific sources. Some reports summarize one specific source, while others may include multiple. These reports are meant to be digestible and well understood, portraying the findings of studies well.
 
+### [Drug-Induced Adaptive Changes](drug-induced_adaptive_changes.md)
+
+Explaining the reason that drugs cause addiction or tolerance.
+
 ### [Melatonin: Optimal Phase Advancement](melatonin_optimal_phase_advancement.md)
 
 The optimal dosing routine of exogenous melatonin to produce maximal circadian rhythym phase advancements. 
